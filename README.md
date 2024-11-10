@@ -2,7 +2,7 @@
 
 ---
 
-### 🛠 My Skills
+### 🛠 FRONT-END
 
 <div>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
@@ -13,25 +13,4 @@
 
 HTML | CSS | JavaScript | Angular
 
----
-
-### 🧰 Development Tools
-
-<div>
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
-    <img src="https://img.icons8.com/color/48/000000/figma.png"/>
-</div>
-
-Visual Studio Code | GitHub | Figma
-
-
-
-<div>
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-    <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-</div>
-
-Node.js | MongoDB | PostgreSQL
 
