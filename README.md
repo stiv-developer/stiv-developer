@@ -1,4 +1,4 @@
-# Hi! I'm [STIV] 👍
+# Hi! I'm STIV 👍
 
 ---
 
